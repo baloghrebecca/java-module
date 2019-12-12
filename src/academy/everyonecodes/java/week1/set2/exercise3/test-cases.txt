@@ -1,0 +1,25 @@
+isBigger
+    1 > 2 -> false
+    2 > 2 -> false
+    2 > 1 -> true
+    -1 > -2 -> true
+    -2 > 0 -> false
+
+isSmaller
+    1 < 2 -> true
+    2 < 2 -> false
+    2 < 1 -> false
+    -1 < -2 -> false
+    -2 < 0 -> true
+
+isBiggest
+    [1] -> 1
+    [1,2,3] -> 3
+    [-1, 0] -> 0
+    [-1,-2,-3] -> -1
+
+isSmallest
+    [1] -> 1
+    [1,2,3] -> 1
+    [-1, 0] -> -1
+    [-1,-2,-3] -> -3
