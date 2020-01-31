@@ -1,0 +1,9 @@
+isAtHome
+    false -> false
+    true -> true
+
+greetSomeone
+    false && "Peter" ->
+    false && "Derek" -> "Hi there, Derek!"
+    true && "Peter" -> "Hi there, Peter!"
+    true && "Derek" -> "Hi there, Derek!"

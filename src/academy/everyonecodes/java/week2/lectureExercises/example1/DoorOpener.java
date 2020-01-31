@@ -1,7 +1,4 @@
-package academy.everyonecodes.java.week2.set1.exercise1;
-
-import academy.everyonecodes.java.week2.lectureExercises.example1.Door;
-import academy.everyonecodes.java.week2.lectureExercises.example1.Key;
+package academy.everyonecodes.java.week2.lectureExercises.example1;
 
 public class DoorOpener {
 

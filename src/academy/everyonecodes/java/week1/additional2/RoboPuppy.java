@@ -1,4 +1,4 @@
-package academy.everyonecodes.java.week1.additional;
+package academy.everyonecodes.java.week1.additional2;
 import java.util.Scanner;
 
 public class RoboPuppy {
