@@ -1,6 +1,6 @@
 package academy.everyonecodes.java.week8.set1.exercise4;
 
-public class Spiderman implements Superhero{
+public class Spiderman implements Superhero {
     @Override
     public String getPrivateName() {
         return "Peter Parker";
