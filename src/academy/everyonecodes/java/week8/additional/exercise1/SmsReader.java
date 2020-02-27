@@ -13,8 +13,8 @@ public class SmsReader {
 
     public List<Sms> reader() {
         return fileReader.read(file).stream()
-                .map(e -> parser.parseLine(file))
+                .skip(1)
+                .map(e -> parser.parseLine(e))
                 .collect(Collectors.toList());
-
     }
 }

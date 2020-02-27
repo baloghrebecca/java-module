@@ -1,7 +1,5 @@
 package academy.everyonecodes.java.week10.set1.exercise1;
 
-import academy.everyonecodes.java.week10.set1.exercise1.*;
-
 import java.util.List;
 import java.util.Optional;
 
